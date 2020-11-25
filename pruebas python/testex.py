@@ -40,6 +40,7 @@ def main():
     )
 
     st.write(content)
+    print("listo¡")
 
 
 if __name__ == "__main__":
